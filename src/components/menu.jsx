@@ -1,6 +1,6 @@
 import React, { useState, useEffect } from 'react';
 import { useNavigate } from 'react-router-dom';
-import './Menu.css';
+import './menu.css';
 import burgerImage from '../assets/burguer.png';
 import drinkImage from '../assets/bb.png';
 
