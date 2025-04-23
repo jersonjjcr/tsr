@@ -3,7 +3,7 @@ import { BrowserRouter as Router, Routes, Route, useNavigate } from "react-route
 import { motion, AnimatePresence } from "framer-motion";
 import "./App.css";
 import logo from "./assets/logo.png";
-import Menu from "./components/Menu.jsx";
+import Menu from "/src/components/Menu.jsx";
 
 function Home() {
   const navigate = useNavigate();
